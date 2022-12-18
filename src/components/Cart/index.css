@@ -1,0 +1,6 @@
+.ordered-items-cart-container {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  margin-left: 0px;
+}
